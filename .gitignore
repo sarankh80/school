@@ -12,10 +12,6 @@
 /web/npm-debug.log
 /web/yarn-error.log
 # Miscellaneous
-/app_school/*.class
-/app_school/*.log
-/app_school/*.pyc
-/app_school/*.swp
 /app_school/.DS_Store
 /app_school/.atom/
 /app_school/.buildlog/
@@ -34,8 +30,7 @@
 #.vscode/
 
 # Flutter/Dart/Pub related
-/app_school/**/doc/api/
-/app_school/**/ios/Flutter/.last_build_id
+/app_school/ios/Flutter/.last_build_id
 /app_school/.dart_tool/
 /app_school/.flutter-plugins
 /app_school/.flutter-plugins-dependencies
@@ -47,11 +42,6 @@
 # Web related
 
 # Symbolication related
-/app_school/app_school.*.symbols
-
-# Obfuscation related
-/app_school/app_school.*.map.json
-
 # Android Studio will place build artifacts here
 /app_school/android/app_school/debug
 /app_school/android/app_school/profile

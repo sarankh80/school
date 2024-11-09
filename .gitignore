@@ -12,39 +12,5 @@
 /web/npm-debug.log
 /web/yarn-error.log
 # Miscellaneous
-/app_school/.DS_Store
-/app_school/.atom/
-/app_school/.buildlog/
-/app_school/.history
-/app_school/.svn/
 
-# IntelliJ related
-/app_school/*.iml
-/app_school/*.ipr
-/app_school/*.iws
-/app_school/.idea/
-
-# The .vscode folder contains launch configuration and tasks you configure in
-# VS Code which you may wish to be included in version control, so this line
-# is commented out by default.
-#.vscode/
-
-# Flutter/Dart/Pub related
-/app_school/ios/Flutter/.last_build_id
-/app_school/.dart_tool/
-/app_school/.flutter-plugins
-/app_school/.flutter-plugins-dependencies
-/app_school/.packages
-/app_school/.pub-cache/
-/app_school/.pub/
-/app_school/build/
-
-# Web related
-
-# Symbolication related
-# Android Studio will place build artifacts here
-/app_school/android/app_school/debug
-/app_school/android/app_school/profile
-/app_school/android/app_school/release
-/app_school/pubspec.lock
 

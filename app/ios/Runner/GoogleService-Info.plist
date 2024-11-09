@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CLIENT_ID</key>
+    <string>722713260714-r8lnfjojjsb54astomn6t0ipb7t1jr1k.apps.googleusercontent.com</string>
+    <key>REVERSED_CLIENT_ID</key>
+    <string>com.googleusercontent.apps.722713260714-r8lnfjojjsb54astomn6t0ipb7t1jr1k</string>
+    <key>ANDROID_CLIENT_ID</key>
+    <string>722713260714-0tpalhajbgl23hluo7hvoo6t3slrdlhb.apps.googleusercontent.com</string>
+    <key>API_KEY</key>
+    <string>AIzaSyCmiwUdFwW6NxLZp0cN_UI5HtWDxobb9HI</string>
+    <key>GCM_SENDER_ID</key>
+    <string>722713260714</string>
+    <key>PLIST_VERSION</key>
+    <string>1</string>
+    <key>BUNDLE_ID</key>
+    <string>com.gogospider.booking</string>
+    <key>PROJECT_ID</key>
+    <string>gogospider-c10c4</string>
+    <key>STORAGE_BUCKET</key>
+    <string>gogospider-c10c4.appspot.com</string>
+    <key>IS_ADS_ENABLED</key>
+    <false></false>
+    <key>IS_ANALYTICS_ENABLED</key>
+    <false></false>
+    <key>IS_APPINVITE_ENABLED</key>
+    <true></true>
+    <key>IS_GCM_ENABLED</key>
+    <true></true>
+    <key>IS_SIGNIN_ENABLED</key>
+    <true></true>
+    <key>GOOGLE_APP_ID</key>
+    <string>1:722713260714:ios:c59db9aa443176659896d3</string>
+</dict>
+</plist>

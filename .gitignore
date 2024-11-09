@@ -12,21 +12,21 @@
 /web/npm-debug.log
 /web/yarn-error.log
 # Miscellaneous
-/app/*.class
-/app/*.log
-/app/*.pyc
-/app/*.swp
-/app/.DS_Store
-/app/.atom/
-/app/.buildlog/
-/app/.history
-/app/.svn/
+/app_school/*.class
+/app_school/*.log
+/app_school/*.pyc
+/app_school/*.swp
+/app_school/.DS_Store
+/app_school/.atom/
+/app_school/.buildlog/
+/app_school/.history
+/app_school/.svn/
 
 # IntelliJ related
-/app/*.iml
-/app/*.ipr
-/app/*.iws
-/app/.idea/
+/app_school/*.iml
+/app_school/*.ipr
+/app_school/*.iws
+/app_school/.idea/
 
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
@@ -34,27 +34,27 @@
 #.vscode/
 
 # Flutter/Dart/Pub related
-/app/**/doc/api/
-/app/**/ios/Flutter/.last_build_id
-/app/.dart_tool/
-/app/.flutter-plugins
-/app/.flutter-plugins-dependencies
-/app/.packages
-/app/.pub-cache/
-/app/.pub/
-/app/build/
+/app_school/**/doc/api/
+/app_school/**/ios/Flutter/.last_build_id
+/app_school/.dart_tool/
+/app_school/.flutter-plugins
+/app_school/.flutter-plugins-dependencies
+/app_school/.packages
+/app_school/.pub-cache/
+/app_school/.pub/
+/app_school/build/
 
 # Web related
 
 # Symbolication related
-/app/app.*.symbols
+/app_school/app_school.*.symbols
 
 # Obfuscation related
-/app/app.*.map.json
+/app_school/app_school.*.map.json
 
 # Android Studio will place build artifacts here
-/app/android/app/debug
-/app/android/app/profile
-/app/android/app/release
-/app/pubspec.lock
+/app_school/android/app_school/debug
+/app_school/android/app_school/profile
+/app_school/android/app_school/release
+/app_school/pubspec.lock
 
